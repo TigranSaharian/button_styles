@@ -1,2 +1,2 @@
-# button_stylrs
-my own button styles
+# button_styles
+my own style of the button 
